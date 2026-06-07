@@ -1,0 +1,16 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+
+api/vpngate.csv
+
+runtime/
+data/
+*.sqlite
+*.sqlite3
+*.db
+
+.env
+.env.*
+!.env.example
